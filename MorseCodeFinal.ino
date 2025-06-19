@@ -28,6 +28,7 @@ void loop() {
     }
     timer_pushing = millis();
     clicked = true;
+    delay(50);
   }
   else if (current_state_morse == HIGH && clicked) {
     result_pushing = millis() - timer_pushing;
