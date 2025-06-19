@@ -6,8 +6,6 @@ This project is a simple Morse code reader made with Arduino using only two push
 
 The duration of each press determines if it is a dot (`.`) or a dash (`-`), and the pause between presses determines spaces (` `) and slashes (`/`) for new words.
 
-⚡️ Fully written by **Mateus Vega (15y 🇧🇷)**
-
 ---
 
 ## 📸 Demo Preview
@@ -113,3 +111,14 @@ void loop() {
 
   last_state_morse = current_state_morse;
 }
+
+```
+---
+
+## 📜 License
+
+MIT License – feel free to use, modify, and share. Credit is appreciated!
+
+---
+
+Fully written by **Mateus Vega (15y 🇧🇷)**
