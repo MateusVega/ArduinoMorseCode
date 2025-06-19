@@ -12,7 +12,7 @@ The duration of each press determines if it is a dot (`.`) or a dash (`-`), and 
 
 ## 📸 Demo Preview
 
-> *(Optional: add a GIF or short video link here in the future)*
+![Demo GIF](demo.gif)
 
 ---
 
